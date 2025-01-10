@@ -1,4 +1,4 @@
-Library Management System (LMS)
+#Library Management System (LMS)
 Project Overview
 The Library Management System (LMS) is an open-source project aimed at providing a simple and effective way to manage library operations. It helps librarians to track book records, manage user accounts, and handle book borrowing/return processes. The system also allows users to search for books and borrow them based on availability.
 

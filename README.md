@@ -54,3 +54,35 @@ The **Library Management System (LMS)** is an open-source project aimed at strea
    ```bash
    php -S localhost:8000
 5. Open the application in your browser at http://localhost:8000.
+
+---
+
+
+## 📂 Project Structure
+
+```plaintext
+📁 LMS/
+├── 📁 Admin/
+    ├── 📁 assets/
+         ├── 📁 css/         
+         ├── 📁 fonts/
+         ├── 📁 img/
+         ├── 📁 js          # JavaScript files
+    ├── 📁 bookingimg/
+    ├── 📁 include/              
+         ├── 📄 config.php  # Backend configuration php scripts
+    ├── 📄 php files        # Admin related backend PHP scripts
+├── 📁 assets/
+    ├── 📁 css/
+    ├── 📁 fonts/
+    ├── 📁 img/
+    ├── 📁 js               # JavaScript files
+├── 📁 includes/
+    ├── 📄 config.php       # Backend PHP scripts   
+├── 📁 sql/                 # Database files
+├── 📄 Studentid.txt        # Student id's
+├── 📄 README.md            # Project documentation
+├── 📄 php files            # All php files
+
+
+

@@ -43,10 +43,10 @@ The **Library Management System (LMS)** is an open-source project aimed at strea
 ### 2. Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/library-management-system.git
+   git clone https://github.com/MATRIXJO/LMS.git
 2. Navigate to the project directory:
    ```bash
-   cd library-management-system
+   cd LMS
 3. Configure the database:
 - Import the ```lms_database.sql``` file into MySQL.
 - Update the database connection settings in config.php. 
